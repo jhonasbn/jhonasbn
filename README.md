@@ -53,7 +53,7 @@ Hi everyone, thanks to visit my profile page!
 - Server side development(API).
 - Application Architecture(clean architecture, MVVM, etc...).
 
-## Career
+<!-- ## Career -->
 <!-- - Commmune(2022/4~)
   - Software engineer
     - Work on implementing Mobile App with Dart(Flutter).
